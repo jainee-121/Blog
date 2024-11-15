@@ -1,4 +1,5 @@
 **A DRF based backend project with basic features**
+<br>
 This is a backend project built using Django Rest Framework (DRF), providing a set of basic features that can serve as the foundation for a variety of applications. The project is designed to handle common backend requirements such as user authentication, CRUD operations, and API endpoints. It can be easily extended to accommodate more advanced functionality as needed.
 <pre>
 <b>Features:</b>
