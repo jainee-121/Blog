@@ -16,10 +16,8 @@ Permission Control: Basic access control using DRF's permission classes.
 <b>Tools & Technologies:</b>
 Django: Web framework for building the backend.
 Django Rest Framework (DRF): Toolkit for building APIs in Django.
-PostgreSQL: Database for storing application data.
 JWT (JSON Web Tokens): For stateless user authentication.
-Docker (optional): Containerization for simplified deployment.
-pytest: For testing and ensuring the quality of the code.
+postman: For testing and ensuring the quality of the code.
 </pre>
 
 <pre>
